@@ -14,3 +14,8 @@ Sample website with plenty of files for demos
 ##Deployment
 #changes done for compariosn-4th time
 more content for comaprions 
+
+
+###Copyright
+
+Copyright sandya@zetametrics.com
