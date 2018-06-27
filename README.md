@@ -2,6 +2,7 @@
 
 #Introduction
 this is a sample test readme file for tutorial purpose
+adding line for stashing
 This repository is for showing how Git and GitHub work
 
 adding some more text for rebasing example
