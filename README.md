@@ -22,4 +22,4 @@ more content for comaprions
 
 ###Copyright
 
-Copyright sandya@zetametrics.com
+Copyright sandya@zetametrics.com.all right reserved
