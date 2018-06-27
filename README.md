@@ -4,6 +4,8 @@
 this is a sample test readme file for tutorial purpose
 This repository is for showing how Git and GitHub work
 
+adding some more text for rebasing example
+
 ## Purpose
 
 This a learning tutorial by jason taylor
